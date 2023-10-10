@@ -24,6 +24,14 @@ This Data includes airline reviews from 2006 to 2019 for popular airlines around
 15. value_for_money: Rated between 1-5
 16. recommended: Binary, target variable.
 
+ ## Deliverables 
+The following are the outcomes expected from the project: 
+1. Create a logical and physical SQL Schema - Have it separate and upload it to your GitHub repo
+2. Create the the Databases and the tables to contain the data 
+3. Load the data to Power BI and Perform transformations - e.g cleaning data where necessary
+4. Develop Power BI Visualizations 
+5. Develop a Power BI - Dashboard 
+6. Presentation with Insights.
 
 ### Project Collaborators
 - **Cindy Kariuki:** Enter short bio | [Github]() | [LinkedIn]()
